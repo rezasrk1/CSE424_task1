@@ -1,9 +1,10 @@
 ## Individual Submitter:
-- **Name:** Sabiha Alam Chowdhury
-- **ID:** 20301192
+- **Name:** Md Saiful Islam
+- **ID:** 21101013
 
 ### Title of paper:
-Face Recognition Machine Vision System Using Eigenfaces
+A smoking behavior detection method based on the YOLOv5 network
+
 
 ### Main paper link:
 [Click me]([https://arxiv.org/pdf/1705.02782v1.pdf](https://iopscience.iop.org/article/10.1088/1742-6596/2232/1/012001/pdf))
